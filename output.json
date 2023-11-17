@@ -1,0 +1,30 @@
+{
+  "title": "lesson title",
+  "target_path": "F:\\SCHOOL\\2023-2024",
+  "sources": {
+    "source_files": [
+      "path/to/file/1",
+      "path/to/file/2",
+      "path/to/file/3"
+    ],
+    "source_urls": [
+      "url1",
+      "url2",
+      "url3"
+    ],
+    "source_texts": [
+      {
+        "title": "TextFile1",
+        "content": "Content of TextFile1"
+      },
+      {
+        "title": "TextFile2",
+        "content": "Content of TextFile2"
+      },
+      {
+        "title": "TextFile3",
+        "content": "Content of TextFile3"
+      }
+    ]
+  }
+}
